@@ -51,7 +51,7 @@ Git • GitHub • VS Code • IntelliJ • Postman
 
 ### 🔹 AgriSight  
 A project focused on agricultural insights using technology.  
-*(Add more details + screenshots when ready)*  
+*(Adding more details + screenshots when ready soon i guess)*  
 🔗 [View Repository](#)
 
 ### 🔹 Wells Fargo Task 2  
